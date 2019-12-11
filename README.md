@@ -1,4 +1,5 @@
-# DPT-text-mining
+# completeted experiment: clustering test corpus with LDA and with tSNE and ADW scores
+
 Two Jupyter Notebooks implementing different approaches to finding clusters, similarities and patterns from the opinions collected by Digital Peace Talks
 
 ## LDA with Segments
